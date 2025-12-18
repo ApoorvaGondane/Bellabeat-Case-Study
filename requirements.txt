@@ -1,5 +1,6 @@
 pandas
-numpy 
-matplotlib.pyplot 
-seaborn 
+numpy
+matplotlib
+seaborn
 scikit-learn
+jupyter
